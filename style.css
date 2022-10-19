@@ -8,6 +8,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 11vh;
 }
 
 header #logo {
@@ -43,6 +44,7 @@ main {
     justify-content: center;
     top: 10vh;
     height: 40vh;
+    gap: 100px;
 }
 
 section {
